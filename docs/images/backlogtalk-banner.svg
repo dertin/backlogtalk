@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">BacklogTalk</title>
+  <desc id="desc">Grabaciones y archivos convertidos en tickets listos para revisar.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1400" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101c2d"/><stop offset=".58" stop-color="#102d43"/><stop offset="1" stop-color="#124b5c"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#7eecda"/><stop offset="1" stop-color="#4da7eb"/>
+    </linearGradient>
+    <linearGradient id="logo" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#2d89ed"/><stop offset="1" stop-color="#1851b7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="420" rx="24" fill="url(#bg)"/>
+  <path d="M0 347C173 286 305 389 493 336S825 268 1008 315s272 13 392-41v146H0Z" fill="#0c2336" opacity=".48"/>
+  <circle cx="1274" cy="63" r="185" fill="#4ed4c3" opacity=".06"/>
+  <circle cx="1035" cy="396" r="245" fill="#3387f3" opacity=".06"/>
+  <g transform="translate(72 56)">
+    <rect width="50" height="50" rx="13" fill="url(#logo)"/>
+    <path d="M15 10h20a7 7 0 0 1 7 7v11a7 7 0 0 1-7 7h-8l-9 6v-6h-3a7 7 0 0 1-7-7V17a7 7 0 0 1 7-7Z" fill="#9ff4e2"/>
+    <path d="M17 22v3m5-8v13m5-10v7m5-10v13m5-8v3" fill="none" stroke="#123e78" stroke-width="2.7" stroke-linecap="round"/>
+    <text x="67" y="34" fill="#eef7ff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" letter-spacing=".2">BacklogTalk</text>
+  </g>
+  <text x="72" y="198" fill="#f4f9ff" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-1">De tu voz</text>
+  <text x="72" y="268" fill="#83e9d5" font-family="Arial, Helvetica, sans-serif" font-size="59" font-weight="700" letter-spacing="-1">al backlog.</text>
+  <text x="75" y="324" fill="#b4cddd" font-family="Arial, Helvetica, sans-serif" font-size="23">Convertí grabaciones y archivos en tickets listos para revisar.</text>
+  <g transform="translate(796 53)">
+    <rect x="7" y="12" width="527" height="296" rx="23" fill="#071a2a" opacity=".28"/>
+    <rect x="0" y="0" width="527" height="296" rx="23" fill="#152738" stroke="#39566a" stroke-width="2"/>
+    <rect x="26" y="26" width="213" height="244" rx="15" fill="#1c3442" stroke="#325968"/>
+    <circle cx="59" cy="62" r="8" fill="#6be5ce"/>
+    <rect x="77" y="56" width="101" height="10" rx="5" fill="#8faebe"/>
+    <g fill="#73e5cf">
+      <rect x="48" y="139" width="7" height="20" rx="3.5"/><rect x="65" y="127" width="7" height="44" rx="3.5"/>
+      <rect x="82" y="111" width="7" height="76" rx="3.5"/><rect x="99" y="132" width="7" height="34" rx="3.5"/>
+      <rect x="116" y="118" width="7" height="62" rx="3.5"/><rect x="133" y="133" width="7" height="32" rx="3.5"/>
+      <rect x="150" y="122" width="7" height="54" rx="3.5"/><rect x="167" y="139" width="7" height="20" rx="3.5"/>
+    </g>
+    <rect x="48" y="221" width="96" height="11" rx="5.5" fill="#4a7181"/>
+    <path d="M255 148h33m-10-10 10 10-10 10" fill="none" stroke="#74e3d0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="306" y="47" width="191" height="205" rx="14" fill="#eaf7f8"/>
+    <rect x="326" y="69" width="60" height="9" rx="4.5" fill="#3a87d6"/>
+    <rect x="326" y="99" width="139" height="10" rx="5" fill="#204862"/>
+    <rect x="326" y="120" width="112" height="10" rx="5" fill="#204862" opacity=".8"/>
+    <rect x="326" y="154" width="150" height="7" rx="3.5" fill="#9fbac5"/>
+    <rect x="326" y="171" width="137" height="7" rx="3.5" fill="#9fbac5"/>
+    <rect x="326" y="188" width="105" height="7" rx="3.5" fill="#9fbac5"/>
+    <rect x="326" y="216" width="74" height="18" rx="9" fill="#b2eedf"/>
+    <path d="m338 225 4 4 7-8" fill="none" stroke="#167b72" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

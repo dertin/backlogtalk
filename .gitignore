@@ -1,0 +1,34 @@
+# Local environments, caches and generated artifacts
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# User data, credentials and IDE settings
+.env
+.env.*
+!.env.example
+BacklogTalk-data/
+.backlogtalk-copy-*/
+*.sqlite
+*.sqlite3
+*.sqlite3-*
+*.db
+*.db-*
+*.wav
+*.mp3
+*.m4a
+*.mp4
+.cursor/settings.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
